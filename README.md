@@ -16,7 +16,7 @@ Este projeto é um chatbot baseado em IA generativa que responde apenas com info
 
 - **Backend:** Python (Flask)
 - **Banco de Dados:** MySQL
-- **Processamento de Texto:** Transformers 
+- **Processamento de Texto:** Transformers e Gemini
 - **Integração de IA:** GEMINI
 - **Frontend:** HTML, CSS, JavaScript 
 
